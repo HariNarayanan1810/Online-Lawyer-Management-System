@@ -44,7 +44,7 @@ The included SQL seed contains demo accounts:
 | Role | Email | Password |
 | --- | --- | --- |
 | Admin | `admin@gmail.com` | `admin` |
-| User | `user@gmail.com` | `123456` |
+| User | `user@gmail.com` | `1234567` |
 | Lawyer | `lawyer@gmail.com` | `123456` |
 
 Some seeded emails in the SQL file contain trailing spaces. If login fails, check the imported `user` table and trim the email/password values.
