@@ -59,6 +59,12 @@ SMTP_PASSWORD=your-app-password
 SMTP_FROM_EMAIL=your-email@example.com
 ```
 
-## GitHub Notes
+##Demo Video
 
-This repository intentionally ignores local upload files and PHPMailer development artifacts such as tests, docs, examples, and zip archives. Keep only files needed to run or explain the project.
+
+
+https://github.com/user-attachments/assets/83833dbd-1c56-4e71-9c92-106d08e2705f
+
+
+
+This repository intentionally ignores local upload files and PHPMailer development artifacts such as tests, docs, examples, and zip archives. Keep only files needed to run or explain the oject.
