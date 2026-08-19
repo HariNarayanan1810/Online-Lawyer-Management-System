@@ -1,0 +1,26 @@
+# Local/editor files
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+.env
+save.txt
+
+# Bundled PHPMailer archives and development-only files
+PHPMailer-master/*.zip
+PHPMailer-master/test/
+PHPMailer-master/tests/
+PHPMailer-master/examples/
+PHPMailer-master/docs/
+PHPMailer-master/.travis.yml
+PHPMailer-master/.scrutinizer.yml
+PHPMailer-master/travis.phpunit.xml.dist
+PHPMailer-master/composer.lock
+
+# User-uploaded/demo-uploaded files.
+# Keep the one image currently hardcoded as the public profile placeholder.
+images/upload/*
+!images/upload/
+!images/upload/.gitkeep
+!images/upload/20230505190118_21104.png
